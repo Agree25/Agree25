@@ -25,10 +25,11 @@ I build backend services and multi-tenant distributed systems using **Java, Go, 
 
 ## Selected public projects
 
-Earlier projects exploring backend fundamentals, machine learning, and robotics. My professional work is separate from these public repositories.
+Public projects exploring backend services, machine learning, and robotics. My professional work is separate from these repositories.
 
 | Project | What it explores |
 | --- | --- |
+| [Smart Healthcare System](https://github.com/Agree25/smart-healthcare-system) | Java 21 and Spring Boot microservices with Kafka, MongoDB, React, and OpenTelemetry; based on the HungryCoders educational project. |
 | [Blockchain Wallet](https://github.com/Agree25/Blockchain-Wallet) | Node.js and Express APIs, wallets, signed transactions, proof-of-work mining, and WebSocket peer communication. |
 | [Django Blog](https://github.com/Agree25/Django-blog-app) | User authentication, profiles, post management, and author-based permissions in Django. |
 | [TurtleBot Visual Servoing](https://github.com/Agree25/EE543) | A team robotics project using ROS, ViSP, and Gazebo for visual servoing experiments. |
